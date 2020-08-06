@@ -12,4 +12,4 @@ My DOB:03/11/2005 I have started github from 2018 When I am in 8th Standard.***
 # My Stats
 <hr>
 ![NikhilRaj's github stats](https://github-readme-stats.vercel.app/api?username=NikhilRajPandey&show_icons=true&theme=light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrajpandey)](https://github.com/nikhilrajpandey/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrajpandey)
