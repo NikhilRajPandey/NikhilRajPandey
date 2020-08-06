@@ -6,7 +6,7 @@
 - ⚡ Fun fact:  My English and Designing is so Bad and You can find grammar and spelling mistakes in my repository.😅
 <hr>
 # About Me
-*** I am Student Of Kendriya Vidyalaya School.
+***I am Student Of Kendriya Vidyalaya School.
 My DOB:03/11/2005 I have started github from 2018 When I am in 8th Standard.***
 
 # My Stats
